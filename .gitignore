@@ -1,8 +1,35 @@
+# ===========================
+# Python
+# ===========================
 __pycache__/
 *.pyc
-.env
-.vscode/
-.DS_Store
+*.pyo
+*.pyd
+*.env
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# ===========================
+# Databases
+# ===========================
 *.db
 *.sqlite
 *.sqlite3
+
+# ===========================
+# IDEs / Editors
+# ===========================
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# ===========================
+# System files
+# ===========================
+.DS_Store
+Thumbs.db
