@@ -1,7 +1,7 @@
 # Inventory Management System (AmiBom™)
 
-A **desktop inventory management system** built in **Python** using **Tkinter** and **SQLite**.  
-This system allows users to **add, modify, remove, search, sort, and view inventory items**, including product images.  
+A **desktop inventory management system** built from scratch in **Python** **using Tkinter** and **SQLite** as part of a professional, company-assigned project.
+This system allows users to **add, modify, remove, search, sort, and view inventory items**, including product images.
 The database is **automatically created** if none exists, making the system portable across computers.
 
 ---
