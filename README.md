@@ -1,7 +1,8 @@
 # Inventory Management System (AmiBom™)
 
-A **desktop inventory management system** built from scratch in **Python** **using Tkinter** and **SQLite** as part of a professional, company-assigned project.
-This system allows users to **add, modify, remove, search, sort, and view inventory items**, including product images.
+A **desktop inventory management system** built from scratch in **Python** using **Tkinter** and **SQLite** as part of a professional, company-assigned project.  
+Developed **following SDLC methodology**, covering requirement analysis, design, implementation, testing, and deployment.  
+The system allows users to **add, modify, remove, search, sort, and view inventory items**, including product images.  
 The database is **automatically created** if none exists, making the system portable across computers.
 
 ---
@@ -50,7 +51,6 @@ The database is **automatically created** if none exists, making the system port
 | ![search_bar](Screenshots/09%20-%20search%20bar.png) | Search bar functionality |
 | ![view_image](Screenshots/10%20-%20view_image.png) | Modal popup showing product image |
 
-
 ---
 
 ## Installation
@@ -58,20 +58,5 @@ The database is **automatically created** if none exists, making the system port
 > Note: Run the commands in your terminal (PowerShell, Command Prompt, Git Bash, or macOS/Linux Terminal). GitHub itself does not execute code.
 
 1. Clone the repository:
-```
+```bash
 git clone https://github.com/SE-Looweh05/Inventory-Management-System.git
-```
-
-2. Navigate to the project folder:
-```
-cd Inventory-Management-System
-```
-
-3. Run the Python application:
-```
-python IMS.py
-```
-
-
-
-
